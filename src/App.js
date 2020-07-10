@@ -38,14 +38,16 @@ class App extends React.Component {
     render() {
         return (
             <Router>
-                <Container className="p-0 bg-dark text-light" fluid={true}>
+                <Container className="p-0 bg-dark " fluid={true}>
 
-                    <Navbar className="border-bottom" bg="dark" expand="lg" >
+                    <Navbar className="border-bottom navbar-dark" bg="dark" expand="lg" >
 
                         <Link className="nav-link" to="/">
-                            <Navbar.Brand>
+                            <Navbar.Brand >
                                 Wizative
-                            </Navbar.Brand>
+                            </Navbar.Brand> 
+
+
                         </Link>
 
                         <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
