@@ -24,7 +24,7 @@ class App extends React.Component {
             home: {
                 title: 'Introducing Wizative',
                 subTitle: 'True Empowerment',
-                text: 'Welcome to Wizative, the advanced Software Startup paving the way to the future. We are a team of like-minded and determined individuals, all sharing a vision for success. We believe that our sophisticated technology has the potential to become an industry sensation. Would you like to find out more? Explore our website today.'
+                text: 'Welcome to Wizative, the advanced Software Startup paving the way to the future. We are a team of like-minded and determined individuals, all sharing a vision for success. We believe that our sophisticated technology has the potential to become an industry sensation. Would you like to find out more? Explore our website today and check some of our projects below.'
             },
             about: {
                 title: 'About me'
