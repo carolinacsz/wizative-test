@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wizative-project/static/css/main.d36cb354.chunk.css",
+    "main.js": "/wizative-project/static/js/main.d0184004.chunk.js",
+    "main.js.map": "/wizative-project/static/js/main.d0184004.chunk.js.map",
+    "runtime-main.js": "/wizative-project/static/js/runtime-main.32881701.js",
+    "runtime-main.js.map": "/wizative-project/static/js/runtime-main.32881701.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/wizative-project/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.2c65ec68.chunk.js": "/wizative-project/static/js/2.2c65ec68.chunk.js",
+    "static/js/2.2c65ec68.chunk.js.map": "/wizative-project/static/js/2.2c65ec68.chunk.js.map",
+    "index.html": "/wizative-project/index.html",
+    "precache-manifest.b479c70e63cf9f0156303da87e7dfcb5.js": "/wizative-project/precache-manifest.b479c70e63cf9f0156303da87e7dfcb5.js",
+    "service-worker.js": "/wizative-project/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/wizative-project/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.d36cb354.chunk.css.map": "/wizative-project/static/css/main.d36cb354.chunk.css.map",
+    "static/js/2.2c65ec68.chunk.js.LICENSE.txt": "/wizative-project/static/js/2.2c65ec68.chunk.js.LICENSE.txt",
+    "static/media/testOne.png": "/wizative-project/static/media/testOne.70275227.png",
+    "static/media/testThree.png": "/wizative-project/static/media/testThree.841a7d8b.png",
+    "static/media/testTwo.png": "/wizative-project/static/media/testTwo.3aa26c43.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32881701.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.2c65ec68.chunk.js",
+    "static/css/main.d36cb354.chunk.css",
+    "static/js/main.d0184004.chunk.js"
+  ]
+}
